@@ -25,8 +25,8 @@ Este projeto é uma implementação local do cenário de microsserviços apresen
 bash
 
 ```bash
-git clone https://github.com/seu-usuario/repositorio.git
-cd repositorio
+git clone [https://github.com/seu-usuario/repositorio.git](https://github.com/sergiorbcruz88/toshiro-shibakita.git)
+cd toshiro-shibakita
 ```
 
 2. **Construa e inicie os containers**:
